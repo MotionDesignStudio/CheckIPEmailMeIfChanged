@@ -1,3 +1,12 @@
+Description:
+
+Ever want to monitor your ever changing W.A.N. (wide are network) IP address and have the new emailed to you?  This script does that.  
+
+Example Usage:
+
+/usr/bin/python3.4 /full/path/to/checkip.py 
+
+This works very well with a cron job.
 
 VERY IMPORTANT
 
@@ -6,10 +15,3 @@ This only works with a Gmail accounts.  You must enable third part applications 
 Follow this URL for information on how to enable this.
 
 https://www.google.com/settings/security/lesssecureapps
-
-Example Usage:
-
-/usr/bin/python3.4 /full/path/to/checkip.py 
-
-
-This works very well with a cron job.
