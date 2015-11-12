@@ -1,0 +1,15 @@
+
+VERY IMPORTANT
+
+This only works with a Gmail accounts.  You must enable third part applications to have access to your account.
+
+Follow this URL for information on how to enable this.
+
+https://www.google.com/settings/security/lesssecureapps
+
+Example Usage:
+
+/usr/bin/python3.4 /full/path/to/checkip.py 
+
+
+This works very well with a cron job.
